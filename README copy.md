@@ -1,8 +1,6 @@
-# 🟢 prod-alert NextJs Demo
+# 🟢 prod-alert
 
-![alt text](image.png)
-
-Prod alert is React component to display the real-time health status of your application, beautifully and easily. The component shows green, red, gray status badge depending on service status.
+A React component to display the real-time health status of your application, beautifully and easily. The component shows green, red, gray status badge depending on service status.
 
 Designed for plug-and-play use with **Next.js**, **Vite**, or any React-based frontend. Can be added to server components via client wrapper which is installed through below CLI.
 
